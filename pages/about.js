@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to my first app</h1>
+        <h1 className={styles.title}>About page</h1>
  
       </main>
     </>
